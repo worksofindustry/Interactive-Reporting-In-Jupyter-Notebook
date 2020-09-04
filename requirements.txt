@@ -4,6 +4,7 @@
 #
 #    pip-compile
 #
+nb2xls  # lib for exporting notebook to Excel, ex. jupyter nbconvert --to xls Examples/ExcelTest.ipynb
 cycler==0.10.0            # via matplotlib
 kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.2.1
