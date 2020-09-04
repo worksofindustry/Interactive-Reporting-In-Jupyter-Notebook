@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-jsonlib==latest
+json==2.0.9
 cycler==0.10.0            # via matplotlib
 kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.2.1
